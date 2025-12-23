@@ -13,11 +13,14 @@ I love to keep learning and improving my craft.
 
 My recent work includes:
 
-- **Trade X App**  
-  A trading platform supporting 6,699 stocks, crypto, forex, etc., featuring auto-chart data generation and duel-mode trades.
+- **Paperbull (Simulation)**  
+  A trading app (android) supporting 6,699 stocks, crypto, forex, etc., featuring auto-chart data generation and Trade duel-mode.
 
 - **Attendease App**  
   A lightweight Flutter app that converts student attendance logs into a polished PDF report.
+
+- **CoreX**  
+  A team management application that supports AI-powered audits, collaborative whiteboards, and multimedia messaging.
 
 ---
 
