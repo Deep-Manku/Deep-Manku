@@ -20,7 +20,7 @@ My recent work includes:
   A lightweight Flutter app that converts student attendance logs into a polished PDF report.
 
 - **CoreX**  
-  A team management application that supports AI-powered audits, collaborative whiteboards, and multimedia messaging.
+  A team management application that supports AI-powered audits, collaborative whiteboards, multimedia messaging and more.
 
 ---
 
