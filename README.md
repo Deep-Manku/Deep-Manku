@@ -8,16 +8,12 @@
 
 ## About Me
 
-I’m an intermediate full-stack app developer passionate about building robust applications and continuously learning new technologies.  
-I love to keep learning and improving my craft.
+I’m an intermediate full-stack app developer passionate about building robust applications and continuously learning new technologies.
 
 My recent work includes:
 
 - **Paperbull (Simulation)**  
   A trading app (android) supporting 6,699 stocks, crypto, forex, etc., featuring auto-chart data generation and Trade duel-mode.
-
-- **Attendease App**  
-  A lightweight Flutter app that converts student attendance logs into a polished PDF report.
 
 - **CoreX**  
   A team management application that supports AI-powered audits, collaborative whiteboards, multimedia messaging and more.
